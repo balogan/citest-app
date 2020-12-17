@@ -4,6 +4,6 @@ orbs:
 workflows:
   node-tests:
     jobs:
-      environment:
-        - CHROME_BIN=/usr/bin/google-chrome karma start --single-run
       - node/test
+      environment:
+        CHROME_BIN: /usr/bin/google-chrome karma start --single-run
