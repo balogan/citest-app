@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/balogan/citest-app.svg?style=svg)](https://circleci.com/gh/balogan/citest-app)
+
 # CitestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
